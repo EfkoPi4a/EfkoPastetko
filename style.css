@@ -21,7 +21,7 @@ div p {
  color:purple;
 }
 div:hover {
-  background-color: pink;
+  background-color: yellow;
 }
 
 p.Piri::first-letter {
@@ -31,6 +31,6 @@ p.Piri::first-letter {
 div {
     width: 320px;
     padding: 10px;
-    border: 5px solid red;
+    border: 5px solid green;
     margin: 0;
 }
